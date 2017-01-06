@@ -1,6 +1,6 @@
 # KnowledgeBase
 ## Language
-- [JavaScript](./Language/JavaScript.md)
+- [JavaScript](/Language/JavaScript.md)
 ## Database
 - [MongoDB](./Database/MongoDB.md)
 ## Framework
