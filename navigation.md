@@ -1,6 +1,4 @@
-# Knowledge Base
+# SZK213
 
-[Home](index.md)
-[Repository](repository.md)
-[About](about.md)
-[Download](download.md)
+[Home](Home.md)
+[Knowledge Base](.KnowledgeBase/KnowledgeBase.md)
