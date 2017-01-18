@@ -11,6 +11,9 @@
 ## Editor
 - [Vi](KnowledgeBase/Editor/Vi.md)
 
+## OS
+- [Linux](KnowledgeBase/OS/Linux.md)
+
 ## Tools
 - [Vagrant](KnowledgeBase/Tools/Vagrant.md)
 
