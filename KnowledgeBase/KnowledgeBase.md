@@ -6,7 +6,7 @@
 - [MongoDB](./Database/MongoDB.md)
 
 ## Framework
-- [Riot.js](./Framework/Riotjs.md)
+- [Riot.js](Framework/Riotjs.md)
 
 ## Tools
 - [Vagrant](./Tools/Vagrant.md)
