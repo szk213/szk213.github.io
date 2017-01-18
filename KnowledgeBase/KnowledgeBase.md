@@ -1,15 +1,15 @@
 # KnowledgeBase
 ## Language
-- [JavaScript](/Language/JavaScript.md)
+- [JavaScript](Language/JavaScript.md)
 
 ## Database
-- [MongoDB](./Database/MongoDB.md)
+- [MongoDB](Database/MongoDB.md)
 
 ## Framework
 - [Riot.js](Framework/Riotjs.md)
 
 ## Tools
-- [Vagrant](./Tools/Vagrant.md)
+- [Vagrant](Tools/Vagrant.md)
 
 ## Platform
-- [AWS](./Platform/AWS.md)
+- [AWS](Platform/AWS.md)
