@@ -8,6 +8,9 @@
 ## Framework
 - [Riot.js](KnowledgeBase/Framework/Riot.js.md)
 
+## Editor
+- [Vi](KnowledgeBase/Editor/Vi.md)
+
 ## Tools
 - [Vagrant](KnowledgeBase/Tools/Vagrant.md)
 
