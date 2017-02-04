@@ -133,7 +133,7 @@ request({uri:'http://tinypng.org/images/example-shrunk-8cadd4c7.png',responseBod
 
 [redguide/nodejs](https://github.com/redguide/nodejs)
 
-berks vendorを行うこと。
+berks vendorを行うこと。
 
 ## CentOS7へのインストール
 
