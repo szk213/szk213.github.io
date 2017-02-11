@@ -9,14 +9,5 @@
 
 ### 読み込み
 非同期読み込み
-```js
-var fs = require('fs');
-fs.readFile('./test.txt', 'utf8', function (err, text) {
-    if(err) {
-      return;
-    }
-    console.log(text);
-});
-```
 
 
