@@ -161,7 +161,7 @@ sudo make install
 ### phantomjsのエラー
 Centos7上で`grunt-contrib-jasmine`を実行したところ、以下のエラーが出た。
 
-```
+```js
 PhantomJS threw an error:ERROR
 >> /root/test/oip-frm/Front/node_modules/grunt-contrib-jasmine/node_modules/grunt file: No such file or directory 0 [ '/root/test/oip-frm/Front/node_modules/gruonfig.so.1: cannot open shared object file: No such file or directory' ]
 >> In order for this task to work properly, PhantomJS must be installed locally
